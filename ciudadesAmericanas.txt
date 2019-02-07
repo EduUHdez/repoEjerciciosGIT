@@ -1,3 +1,5 @@
 Chicago
 Michigan
 Toronto
+California
+Los Angeles
