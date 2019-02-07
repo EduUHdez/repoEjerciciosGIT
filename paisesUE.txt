@@ -1,5 +1,13 @@
 Alemania
+<<<<<<< HEAD
 Italia
 Francia
 
 Rumania
+=======
+
+
+Inglaterra
+
+Polonia
+>>>>>>> develop

@@ -1,6 +1,13 @@
 Chicago
+<<<<<<< HEAD
 Toronto
 Michigan
 
 
 Ohaio
+=======
+
+
+California
+Los Angeles
+>>>>>>> develop

@@ -1,5 +1,12 @@
 Canada
 Puerto Rico
+<<<<<<< HEAD
 Venezuela
 
 Brasil
+=======
+China
+Japon
+
+Argentina
+>>>>>>> develop

@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Amsterdam
 Estocolmo
 Berlin
 
 Londres
+=======
+
+
+Transilvania
+Paris
+Roma
+>>>>>>> develop
